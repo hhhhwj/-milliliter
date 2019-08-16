@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="milliliter"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.example.milliliter.db.Province"/>
+        <mapping class="com.example.milliliter.db.City"/>
+        <mapping class="com.example.milliliter.db.County"/>
+    </list>
+</litepal>
